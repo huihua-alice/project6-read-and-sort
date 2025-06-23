@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"readandsort"},{"l":"readandsort.app"},{"l":"readandsort.service"},{"l":"readandsort.util"}];updateSearchResults();
