@@ -182,7 +182,8 @@ message and result.
   Original Input: 9,6,3
   Sorted (LinkedList): [3, 6, 9]
 ```
-_For more details, please refer to the 
-[Documentation of this version](https://huihua-alice.github.io/project4-linkedlist/docs/index.html)_
+
+_For more details, please refer to the Javadoc documentation located in the 
+`docs/` folder inside each project directory._
 
 [🔝 back to top](#readme-top)

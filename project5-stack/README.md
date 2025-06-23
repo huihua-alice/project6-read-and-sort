@@ -235,10 +235,9 @@ Your input: 5,6,8,1,-9
 Original Input: 5,6,8,1,-9
 Sorted (Stack): [8, 6, 5, 1, -9]
 ```
-_For more details, please refer to the
-[Documentation of this version](https://huihua-alice.github.io/project5-stack/docs/index.html)_
+_For more details, please refer to the Javadoc documentation located in the 
+`docs/` folder inside each project directory._
 
 [🔝 back to top](#readme-top)
-
 
 
